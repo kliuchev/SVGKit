@@ -606,7 +606,7 @@
 		6649E1031617574600AFE92A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DA02919B25AC893D00297579 /* libSVGKit-iOS.2.1.0.a */,
+				DA02919B25AC893D00297579 /* libSVGKit-iOS.4.0.0.a */,
 				E203AF901A0AC14F000DE028 /* SVGKit-iOS Tests.xctest */,
 				529DADF11C415FF00069B076 /* SVGKit.framework */,
 				529DADF31C415FF00069B076 /* SVGKitFramework-iOSTests.xctest */,
@@ -821,10 +821,10 @@
 			remoteRef = 529DADF61C415FF00069B076 /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
-		DA02919B25AC893D00297579 /* libSVGKit-iOS.2.1.0.a */ = {
+		DA02919B25AC893D00297579 /* libSVGKit-iOS.4.0.0.a */ = {
 			isa = PBXReferenceProxy;
 			fileType = archive.ar;
-			path = "libSVGKit-iOS.2.1.0.a";
+			path = "libSVGKit-iOS.4.0.0.a";
 			remoteRef = DA02919A25AC893D00297579 /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
